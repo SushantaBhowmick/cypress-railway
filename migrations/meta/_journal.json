@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1725688159555,
+      "tag": "0000_slow_the_call",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1725689752766,
+      "tag": "0001_fast_lily_hollister",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1730143726368,
+      "tag": "0002_modern_zaladane",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1730230388917,
+      "tag": "0003_ambiguous_dark_beast",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1730231468886,
+      "tag": "0004_cold_zarek",
+      "breakpoints": true
+    }
+  ]
+}
